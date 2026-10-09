@@ -1,8 +1,14 @@
 blank_issues_enabled: false
 contact_links:
-  - name: LEFON Documentation
+  - name: 📚 Documentação da Lefon
     url: https://github.com/mkbraion/lefon-reverse-engineering#readme
-    about: Read the LEFONDME and AGENTS.md for usage guides and configuration details.
-  - name: Question or Discussion
-    url: https://github.com/mkbraion/lefon-reverse-engineering/discussions
-    about: Please ask questions and start discussions here.
+    about: Consulte a documentação principal, instalação, exemplos e guias em português.
+  - name: 💬 Suporte e dúvidas
+    url: https://github.com/mkbraion/lefon-reverse-engineering/blob/main/SUPPORT.md
+    about: Veja como pedir ajuda e quais informações incluir antes de abrir uma issue.
+  - name: 🔐 Segurança
+    url: https://github.com/mkbraion/lefon-reverse-engineering/blob/main/SECURITY.md
+    about: Para assuntos de segurança, siga o processo descrito aqui antes de publicar detalhes sensíveis.
+  - name: 💖 Apoiar o projeto
+    url: https://github.com/sponsors/mkbraion
+    about: Apoie a manutenção, documentação brasileira e evolução da Lefon pelo GitHub Sponsors.
