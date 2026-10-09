@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Lefon Engenharia Reversa"
+message: "Se este projeto for útil em pesquisa ou estudo, cite o repositório e a versão utilizada."
+type: software
+authors:
+  - family-names: "Neto"
+    given-names: "Nelson"
+    alias: "mkbraion"
+repository-code: "https://github.com/mkbraion/lefon-reverse-engineering"
+url: "https://github.com/mkbraion/lefon-reverse-engineering"
+license: MIT
+version: "6.4.0-lefon.1"
+date-released: "2026-10-12"
