@@ -1,7 +1,7 @@
 {
   "name": "rea-agents",
   "mcpName": "io.github.morluto/rea",
-  "version": "6.4.0",
+  "version": "6.5.0",
   "description": "Lefon Engenharia Reversa — versão brasileira de uma plataforma de engenharia reversa assistida por agentes de IA, CLI e MCP.",
   "license": "MIT",
   "repository": {

@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.5.0](https://github.com/mkbraion/lefon-reverse-engineering/compare/rea-agents-6.4.0...rea-agents-6.5.0) (2026-10-12)
+
+
+### Features
+
+* versao brasileira Lefon Engenharia Reversa ([7289eea](https://github.com/mkbraion/lefon-reverse-engineering/commit/7289eea57be8d897b7c47312078383e071a16621))
+
 ## [6.4.0](https://github.com/morluto/rea/compare/rea-agents-6.3.0...rea-agents-6.4.0) (2026-10-11)
 
 ### Highlights
