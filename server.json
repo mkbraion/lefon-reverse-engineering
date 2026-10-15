@@ -8,13 +8,13 @@
     "url": "https://github.com/mkbraion/lefon-reverse-engineering",
     "source": "github"
   },
-  "version": "6.4.0",
+  "version": "6.5.0",
   "packages": [
     {
       "registryType": "npm",
       "registryBaseUrl": "https://registry.npmjs.org",
       "identifier": "lefon-reverse-engineering",
-      "version": "6.4.0",
+      "version": "6.5.0",
       "runtimeHint": "npx",
       "transport": {
         "type": "stdio"

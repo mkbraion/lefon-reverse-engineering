@@ -1,5 +1,22 @@
 # Changelog
 
+## [6.5.0](https://github.com/mkbraion/lefon-reverse-engineering/compare/lefon-reverse-engineering-6.4.0...lefon-reverse-engineering-6.5.0) (2026-10-15)
+
+
+### Code Refactoring
+
+* migracao tecnica completa para Lefon ([b95f78f](https://github.com/mkbraion/lefon-reverse-engineering/commit/b95f78fd1231746b28506ca793ea49c981009b21))
+
+
+### Documentation
+
+* adicionar código de conduta ([565b276](https://github.com/mkbraion/lefon-reverse-engineering/commit/565b2769ed3bb66ef83776c57a0cce19506ac5b0))
+* adicionar guia de suporte ([bb467f7](https://github.com/mkbraion/lefon-reverse-engineering/commit/bb467f7829b65d051823ee488deb58c10a0edb60))
+* adicionar metadados de citação ([0502b61](https://github.com/mkbraion/lefon-reverse-engineering/commit/0502b61d240ab002f8070fbbe9a37a61f6ac7700))
+* adicionar roadmap do projeto ([2ceb67b](https://github.com/mkbraion/lefon-reverse-engineering/commit/2ceb67b321cd0cc89624e32998cf2a3af4cc5849))
+* improve repository presentation ([392d694](https://github.com/mkbraion/lefon-reverse-engineering/commit/392d694ca3574e60f48196e3bc66f71cce18337f))
+* polish repository presentation ([e519369](https://github.com/mkbraion/lefon-reverse-engineering/commit/e519369c49891db59f5a38b0a93ae4157979dac0))
+
 ## [6.4.0](https://github.com/mkbraion/lefon-reverse-engineering/compare/lefon-reverse-engineering-6.3.0...lefon-reverse-engineering-6.4.0) (2026-10-11)
 
 ### Highlights
