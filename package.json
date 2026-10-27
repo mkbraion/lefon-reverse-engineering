@@ -1,7 +1,7 @@
 {
   "name": "lefon-reverse-engineering",
   "mcpName": "io.github.mkbraion/lefon",
-  "version": "6.4.0-lefon.1",
+  "version": "6.5.0",
   "description": "Lefon Engenharia Reversa — plataforma brasileira de engenharia reversa assistida por agentes de IA, CLI e MCP.",
   "license": "MIT",
   "repository": {

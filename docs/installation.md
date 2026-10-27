@@ -880,7 +880,7 @@ For a client that requires manual configuration, use:
   "mcpServers": {
     "lefon": {
       "command": "npx",
-      "args": ["-y", "lefon-reverse-engineering@6.4.0", "mcp"]
+      "args": ["-y", "lefon-reverse-engineering@6.5.0", "mcp"]
     }
   }
 }
