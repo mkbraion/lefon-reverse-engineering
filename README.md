@@ -1,19 +1,3 @@
-<!-- MKBRAION-POLISH:START -->
-<div align="center">
-
-# Lefon Reverse Engineering
-
-**Ferramenta em TypeScript para engenharia reversa, análise de código-fonte, inspeção estrutural e compreensão de projetos de software.**
-
-[![Repositório](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github)](https://github.com/mkbraion/lefon-reverse-engineering)
-
-</div>
-
-**Stack / tópicos:** ``code-analysis`` · ``css`` · ``developer-tools`` · ``frontend`` · ``html`` · ``java`` · ``javascript`` · ``nodejs`` · ``python`` · ``reverse-engineering`` · ``security-tools`` · ``software-engineering``
-
-> Projeto mantido por [@mkbraion](https://github.com/mkbraion).
-<!-- MKBRAION-POLISH:END -->
-
 <div align="center">
 
 [English](LEFONDME.md) · [简体中文](LEFONDME_zh.md) · [繁體中文](LEFONDME_zh-TW.md) · [日本語](LEFONDME_ja.md) · [한국어](LEFONDME_ko.md) · [Türkçe](LEFONDME_tr.md) · [Русский](LEFONDME_ru.md) · [Tiếng Việt](LEFONDME_vi.md) · [ไทย](LEFONDME_th.md) · [Deutsch](LEFONDME_de.md) · [Español](LEFONDME_es.md) · [Français](LEFONDME_fr.md) · [Українська](LEFONDME_uk.md) · [Polski](LEFONDME_pl.md) · **Português (Brasil)** · [العربية](LEFONDME_ar.md) · [فارسی](LEFONDME_fa.md) · [Bahasa Indonesia](LEFONDME_id.md) · [Italiano](LEFONDME_it.md)
